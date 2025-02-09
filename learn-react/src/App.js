@@ -10,7 +10,7 @@ const user = {
   'imagesize' : '90'
 }
 const education = [
-  {name : "High School", id:'1', year : '2019'},
+  {name : "High School", id:'1', year : '2019 '},
   {name : "Undergrad", id:'2', year:'2023'},
   {name : "Grad School", id : '3', year: '2026'}
 ]
